@@ -1,4 +1,4 @@
-# Thanks for visiting my profile
+# Thanks for visiting my profile 👋
 
 My name is Matthew, I'm a student that is really into programming and computers in general. I mainly do backend development and machine learning.
 
