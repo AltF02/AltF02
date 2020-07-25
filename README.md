@@ -27,3 +27,4 @@ Some of my open source projects that I'm the most proudest of:
 
 
 ![](https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/DankDumpster?style=social)
