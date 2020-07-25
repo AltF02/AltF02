@@ -21,7 +21,7 @@ Some of my open source projects that I'm the most proudest of:
 * [Apraw](https://github.com/DankDumpster/apraw "apraw")
 
 ### Javascript
-* [TubeParty](https://github.com/DankDumpster/TubeParty "Watch youtube videos together)(being build...)
+* [TubeParty](https://github.com/DankDumpster/TubeParty "Watch youtube videos together) (being build...)
 * [Screen recorder](https://github.com/DankDumpster/ScreenRecorder "Screen recorder made in electron")
 * [Noodles-bot.live](https://github.com/DankDumpster/vue-noodles-live "Site for the discord bot noodles")
 
