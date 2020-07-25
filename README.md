@@ -23,3 +23,6 @@ Some of my open source projects that I'm the most proudest of:
 ### Javascript
 * [Screen recorder](https://github.com/DankDumpster/ScreenRecorder "Screen recorder made in electron")
 * [Noodles-bot.live](https://github.com/DankDumpster/vue-noodles-live "Site for the discord bot noodles")
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
