@@ -31,6 +31,7 @@ Some of my open source projects that I'm the most proud of:
 <a href="https://github.com/DankDumpster">
   <img src="https://img.shields.io/github/followers/DankDumpster?style=social" />
 </a>
+---
 <a href="https://github.com/DankDumpster">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DankDumpster&show_icons=true&hide_border=true" />
 </a>
