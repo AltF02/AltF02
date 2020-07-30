@@ -26,10 +26,10 @@ Some of my open source projects that I'm the most proud of:
 * [Noodles-bot.live](https://github.com/DankDumpster/vue-noodles-live "Site for the discord bot noodles")
 
 <a href="https://github.com/DankDumpster">
-  <img align="left" src="https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square" />
 </a>
 <a href="https://github.com/DankDumpster">
-  <img align="left" src="https://img.shields.io/github/followers/DankDumpster?style=social" />
+  <img src="https://img.shields.io/github/followers/DankDumpster?style=social" />
 </a>
 <a href="https://github.com/DankDumpster">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DankDumpster&show_icons=true&hide_border=true" />
