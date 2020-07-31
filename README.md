@@ -39,6 +39,6 @@ Some of my open source projects that I'm the most proud of:
 </a>
 
 <a href="https://github.com/DankDumpster">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankDumpster&layout=compact" />
 </a>
 
