@@ -6,7 +6,7 @@ My name is Matthew, I'm a student that is really into programming and computers 
 **DankDumpster/DankDumpster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I’m currently learning python, go and javascript. I create discord bots, reddit bots and api's. I work with postgresql and sqlite databases. If you have the time, please take look at my projects
+I’m currently learning python, rust, go and javascript. I create discord bots, reddit bots and api's. I work with postgresql and sqlite databases. If you have the time, please take look at my projects
 
 
 Some of my open source projects that I'm the most proud of: 
