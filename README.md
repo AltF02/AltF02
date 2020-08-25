@@ -25,6 +25,8 @@ Some of my open source projects that I'm the most proud of:
 * [Screen recorder](https://github.com/DankDumpster/ScreenRecorder "Screen recorder made in electron")
 * [Noodles-bot.live](https://github.com/DankDumpster/vue-noodles-live "Site for the discord bot noodles")
 
+### Go
+* [Compliment-api](https://github.com/DankDumpster/compliment-api "compliment api made in go")
 <a href="https://github.com/DankDumpster">
   <img src="https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square" />
 </a>
