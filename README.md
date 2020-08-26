@@ -33,7 +33,7 @@ Some of my open source projects that I'm the most proud of:
 * [Linky](https://github.com/DankDumpster/Linky "Link shortener made with rust and react") (Includes react)
 
 <a href="https://github.com/DankDumpster">
-  <img src="https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square&color=green" />
 </a>
 <a href="https://github.com/DankDumpster">
   <img src="https://img.shields.io/github/followers/DankDumpster?style=social" />
