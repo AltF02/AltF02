@@ -27,12 +27,19 @@ Some of my open source projects that I'm the most proud of:
 
 ### Go
 * [Compliment-api](https://github.com/DankDumpster/compliment-api "compliment api made in go")
+
+### Rust
+* [Linky](https://github.com/DankDumpster/Linky "Link shortener made with rust and react") (Includes react)
+
 <a href="https://github.com/DankDumpster">
   <img src="https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square" />
 </a>
 <a href="https://github.com/DankDumpster">
   <img src="https://img.shields.io/github/followers/DankDumpster?style=social" />
 </a>
+
+
+
 
 ***
 
