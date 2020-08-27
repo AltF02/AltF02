@@ -31,6 +31,7 @@ Some of my open source projects that I'm the most proud of:
 
 ### Rust
 * [Linky](https://github.com/DankDumpster/Linky "Link shortener made with rust and react") (Includes react)
+* [Snake](https://github.com/DankDumpster/snake-game "Snake game made with piston in rust")
 
 <a href="https://github.com/DankDumpster">
   <img src="https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square&color=green" />
