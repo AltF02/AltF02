@@ -12,8 +12,7 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
 Some of my open source projects that I'm the most proud of: 
 
 ### Python
-* [Noodles](https://github.com/DankDumpster/Noodles "Noodles discord bot")
-<!-- * [Modmail](https://github.com/Floor-Gang/modmail "Modmail made for pewds' official discord") -->
+* [Noodles](https://github.com/DankDumpster/Noodles "Noodles discord bot") <!-- * [Modmail](https://github.com/Floor-Gang/modmail "Modmail made for pewds' official discord") -->
 * [Shallow water simulator](https://github.com/DankDumpster/water-sim-1.0 "Shallow water simulator")
 * [Simple gravity simulator](https://github.com/DankDumpster/GravitySimulator "Gravity simulator")
 * [A wrapper for hastebin.com](https://github.com/DankDumpster/HasteBinWrapper "Hastebin Wrapper")
