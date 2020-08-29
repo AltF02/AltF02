@@ -26,7 +26,7 @@ Some of my open source projects that I'm the most proud of:
 * [Noodles-bot.live](https://github.com/DankDumpster/vue-noodles-live "Site for the discord bot noodles")
 
 ### Rust
-* [Linky](https://github.com/DankDumpster/Linky "Link shortener made with rust and react") (Includes react)
+* [Linky](https://github.com/DankDumpster/Linky "Link shortener made with rust and react")
 * [Snake](https://github.com/DankDumpster/snake-game "Snake game made with piston in rust")
 * [Rust Basics](https://github.com/DankDumpster/rust-basics "All the basics of rust in one repo!")
 
