@@ -32,17 +32,13 @@ Some of my open source projects that I'm the most proud of:
 
 ### Go
 * [Compliment-api](https://github.com/DankDumpster/compliment-api "compliment api made in go")
+---
 
+![Followers](https://img.shields.io/github/followers/DankDumpster?style=social)
 
-<a href="https://github.com/DankDumpster">
-  <img src="https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square&color=green" />
-</a>
-<a href="https://github.com/DankDumpster">
-  <img src="https://img.shields.io/github/followers/DankDumpster?style=social" />
-</a>
-
+![Views](https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square&color=green)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96346%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
