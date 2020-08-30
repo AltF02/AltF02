@@ -42,13 +42,13 @@ Some of my open source projects that I'm the most proud of:
 
 **🐱 My Github Data** 
 
-> 🏆 924 Contributions in the Year 2020
+> 🏆 929 Contributions in the Year 2020
  > 
 > 📦 143.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories
+> 📜 25 Public Repositories
  > 
 > 🔑 7 Private Repositories 
 
