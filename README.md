@@ -50,12 +50,12 @@ Some of my open source projects that I'm the most proud of:
   <img src="https://github-readme-stats.vercel.app/api?username=DankDumpster&show_icons=true&hide_border=true&theme=onedark" />
 </a>
 
----
-
 <a href="https://github.com/DankDumpster">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankDumpster&layout=compact&theme=onedark" />
 </a>
 
+-------
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 Python       58 mins         █████████████████████▒░░░   84.75 % 
@@ -65,3 +65,4 @@ Git Config   0 secs          ▒░░░░░░░░░░░░░░░░
 Git          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 <!--END_SECTION:waka-->
+-------
