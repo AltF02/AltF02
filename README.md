@@ -32,8 +32,8 @@ Some of my open source projects that I'm the most proud of:
 
 ### Go
 * [Compliment-api](https://github.com/DankDumpster/compliment-api "compliment api made in go")
----
 
+---
 ![Followers](https://img.shields.io/github/followers/DankDumpster?style=social)
 
 ![Views](https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square&color=green)
