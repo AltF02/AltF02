@@ -41,19 +41,6 @@ Some of my open source projects that I'm the most proud of:
   <img src="https://img.shields.io/github/followers/DankDumpster?style=social" />
 </a>
 
-
-
-
-***
-
-<a href="https://github.com/DankDumpster">
-  <img src="https://github-readme-stats.vercel.app/api?username=DankDumpster&show_icons=true&hide_border=true&theme=onedark" />
-</a>
-
-<a href="https://github.com/DankDumpster">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankDumpster&layout=compact&theme=onedark" />
-</a>
-
 -------
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96346%20lines%20of%20code-blue)
