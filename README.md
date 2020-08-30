@@ -56,3 +56,5 @@ Some of my open source projects that I'm the most proud of:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DankDumpster&layout=compact&theme=onedark" />
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
