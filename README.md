@@ -57,4 +57,11 @@ Some of my open source projects that I'm the most proud of:
 </a>
 
 <!--START_SECTION:waka-->
+```text
+Python       58 mins         █████████████████████▒░░░   84.75 % 
+Rust         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Git          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+```
 <!--END_SECTION:waka-->
