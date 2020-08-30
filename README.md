@@ -57,5 +57,41 @@ Some of my open source projects that I'm the most proud of:
 -------
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96346%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 924 Contributions in the Year 2020
+ > 
+> 📦 143.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories
+ > 
+> 🔑 7 Private Repositories 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Amsterdam
+
+💬 Programming Languages: 
+Python                   58 mins             █████████████████████░░░░   84.75% 
+Rust                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
+
+🔥 Editors: 
+PyCharm                  1 hr                ██████████████████████░░░   87.94% 
+CLion                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.06%
+
+💻 Operating System: 
+Windows                  1 hr 8 mins         █████████████████████████   100.0%
+
+```
+
+
 <!--END_SECTION:waka-->
 -------
