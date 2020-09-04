@@ -25,6 +25,7 @@ Some of my open source projects that I'm the most proud of:
 * [Snake](https://github.com/DankDumpster/snake-game "Snake game made with piston in rust")
 * [Rust Basics](https://github.com/DankDumpster/rust-basics "All the basics of rust in one repo!")
 * [Birthday Bot](https://github.com/DankDumpster/birthday-bot "Rust discord bot that keeps track of everyone's birthday!")
+* [Discord bot template](https://github.com/DankDumpster/rust-discord-bot-template "Template to start out with a bot for discord in rust")
 
 ### Go
 * [Compliment-api](https://github.com/DankDumpster/compliment-api "compliment api made in go")
