@@ -1,5 +1,4 @@
 # Thanks for visiting my profile 👋
-
 My name is Matthew, I'm a student that is really into programming and computers in general. I mainly do backend development and machine learning.
 
 I’m currently learning python, rust, go and javascript. I create discord bots, reddit bots and api's. I work with postgresql and sqlite databases. If you have the time, please take a look at my projects
