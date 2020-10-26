@@ -9,7 +9,7 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,149 Contributions in the Year 2020
+> 🏆 1,150 Contributions in the Year 2020
  > 
 > 📦 144.7 kB Used in Github's Storage 
  > 
