@@ -16,7 +16,7 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
