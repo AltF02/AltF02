@@ -25,17 +25,13 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               21 mins             ██████████████████████░░░   90.79% 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
