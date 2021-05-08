@@ -12,7 +12,7 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
 
 > 🏆 262 Contributions in the Year 2021
  > 
-> 📦 156.9 kB Used in Github's Storage 
+> 📦 157.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,17 +26,13 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-C                        3 mins              █████████████████████████   99.73% 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
