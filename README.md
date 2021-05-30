@@ -10,9 +10,9 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 311 Contributions in the Year 2021
+> 🏆 321 Contributions in the Year 2021
  > 
-> 📦 159.7 kB Used in Github's Storage 
+> 📦 160.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,18 +25,19 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
 ```text
 ⌚︎ Time Zone: Europe/Amsterdam
 
-💬 Programming Languages: 
-Python                   10 mins             ████████████████████████░   99.49% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+```
 
-🔥 Editors: 
-PyCharm                  10 mins             █████████████████████████   100.0%
+**I Mostly Code in Python** 
 
-💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.0%
+```text
+Python                   19 repos            ████████░░░░░░░░░░░░░░░░░   34.55% 
+Rust                     15 repos            ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.45%
 
 ```
+
 
 
 <!--END_SECTION:waka-->
