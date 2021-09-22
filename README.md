@@ -8,11 +8,11 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
 ![Followers](https://img.shields.io/github/followers/AltF02?style=social)
 ![Views](https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square&color=green)
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 932 Contributions in the Year 2021
+> 🏆 934 Contributions in the Year 2021
  > 
-> 📦 162.1 kB Used in Github's Storage 
+> 📦 162.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -40,7 +40,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 -------
 
