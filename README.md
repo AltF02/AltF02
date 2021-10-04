@@ -12,7 +12,7 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
 
 > 🏆 958 Contributions in the Year 2021
  > 
-> 📦 162.3 kB Used in GitHub's Storage 
+> 📦 162.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -40,7 +40,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2021
+ Last Updated on 04/10/2021
 <!--END_SECTION:waka-->
 -------
 
