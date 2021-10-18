@@ -10,7 +10,7 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 971 Contributions in the Year 2021
+> 🏆 977 Contributions in the Year 2021
  > 
 > 📦 162.9 kB Used in GitHub's Storage 
  > 
@@ -18,7 +18,7 @@ I’m currently learning python, rust, go and javascript. I create discord bots,
  > 
 > 📜 51 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -40,7 +40,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2021
+ Last Updated on 18/10/2021
 <!--END_SECTION:waka-->
 -------
 
