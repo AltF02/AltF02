@@ -1,8 +1,5 @@
 # Thanks for visiting my profile 👋
-My name is Matthew, I'm a student that is really into programming and computers in general. I mainly do backend and systems development.
-
-
-I’m currently learning python, rust, go and javascript. I create discord bots, reddit bots and api's. I work with postgresql and sqlite databases. If you have the time, please take a look at my projects
+My name is Matthew, I need to write this out but I'm lazy
 
 ---
 ![Followers](https://img.shields.io/github/followers/AltF02?style=social)
