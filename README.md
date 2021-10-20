@@ -7,7 +7,7 @@ My name is Matthew, I need to write this out but I'm lazy
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 980 Contributions in the Year 2021
+> 🏆 981 Contributions in the Year 2021
  > 
 > 📦 162.9 kB Used in GitHub's Storage 
  > 
