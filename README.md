@@ -28,7 +28,7 @@ My name is Matthew, I need to write this out but I'm lazy
 
 ```text
 Python                   21 repos            ████████░░░░░░░░░░░░░░░░░   33.87% 
-Rust                     19 repos            ███████░░░░░░░░░░░░░░░░░░   30.65% 
+Rust                     20 repos            ████████░░░░░░░░░░░░░░░░░   32.26% 
 JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
 TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
 Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.84%
