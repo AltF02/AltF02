@@ -7,15 +7,15 @@ My name is Matthew, I need to write this out but I'm lazy
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 977 Contributions in the Year 2021
+> 🏆 980 Contributions in the Year 2021
  > 
 > 📦 162.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -27,17 +27,17 @@ My name is Matthew, I need to write this out but I'm lazy
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ████████░░░░░░░░░░░░░░░░░   34.43% 
-Rust                     19 repos            ███████░░░░░░░░░░░░░░░░░░   31.15% 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
+Python                   21 repos            ████████░░░░░░░░░░░░░░░░░   33.87% 
+Rust                     19 repos            ███████░░░░░░░░░░░░░░░░░░   30.65% 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.84%
 
 ```
 
 
 
- Last Updated on 19/10/2021
+ Last Updated on 20/10/2021
 <!--END_SECTION:waka-->
 -------
 
