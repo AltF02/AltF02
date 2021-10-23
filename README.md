@@ -24,20 +24,20 @@ My name is Matthew, I need to write this out but I'm lazy
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Rust** 
 
 ```text
-Python                   21 repos            ████████░░░░░░░░░░░░░░░░░   33.87% 
-Rust                     20 repos            ████████░░░░░░░░░░░░░░░░░   32.26% 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.84%
+Rust                     20 repos            ████████░░░░░░░░░░░░░░░░░   32.79% 
+Python                   20 repos            ████████░░░░░░░░░░░░░░░░░   32.79% 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
 
 ```
 
 
 
- Last Updated on 22/10/2021
+ Last Updated on 23/10/2021
 <!--END_SECTION:waka-->
 -------
 
