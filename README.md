@@ -7,15 +7,15 @@ My name is Matthew, I need to write this out but I'm lazy
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 998 Contributions in the Year 2021
+> 🏆 1,000 Contributions in the Year 2021
  > 
-> 📦 162.9 kB Used in GitHub's Storage 
+> 📦 163.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 52 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -37,7 +37,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 -------
 
