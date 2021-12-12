@@ -5,6 +5,8 @@ My name is Matthew, I need to write this out but I'm lazy
 ![Followers](https://img.shields.io/github/followers/AltF02?style=social)
 ![Views](https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square&color=green)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2018%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 1,002 Contributions in the Year 2021
