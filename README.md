@@ -5,13 +5,11 @@ My name is Matthew, I need to write this out but I'm lazy
 ![Followers](https://img.shields.io/github/followers/AltF02?style=social)
 ![Views](https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square&color=green)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2029%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 12 Contributions in the Year 2022
+> 🏆 18 Contributions in the Year 2022
  > 
-> 📦 163.1 kB Used in GitHub's Storage 
+> 📦 163.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -29,17 +27,17 @@ My name is Matthew, I need to write this out but I'm lazy
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     20 repos            ████████░░░░░░░░░░░░░░░░░   32.26% 
-Python                   20 repos            ████████░░░░░░░░░░░░░░░░░   32.26% 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.84%
+Rust                     20 repos            ████████░░░░░░░░░░░░░░░░░   31.75% 
+Python                   20 repos            ████████░░░░░░░░░░░░░░░░░   31.75% 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
 
 ```
 
 
 
- Last Updated on 13/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 -------
 
