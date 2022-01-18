@@ -43,4 +43,4 @@ Vue                      3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 -------
 
-You can contact me at contact@altf2.dev
+You can contact me at contact [at] altf2.dev
