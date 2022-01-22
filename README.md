@@ -7,13 +7,13 @@ My name is Matthew, I need to write this out but I'm lazy
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 21 Contributions in the Year 2022
+> 🏆 26 Contributions in the Year 2022
  > 
-> 📦 163.6 kB Used in GitHub's Storage 
+> 📦 164.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 53 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
  > 
@@ -27,17 +27,17 @@ My name is Matthew, I need to write this out but I'm lazy
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     20 repos            ████████░░░░░░░░░░░░░░░░░   31.75% 
-Python                   20 repos            ████████░░░░░░░░░░░░░░░░░   31.75% 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+Rust                     21 repos            ████████░░░░░░░░░░░░░░░░░   32.81% 
+Python                   20 repos            ███████░░░░░░░░░░░░░░░░░░   31.25% 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
 
 ```
 
 
 
- Last Updated on 21/01/2022 18:45:36 UTC
+ Last Updated on 22/01/2022 18:45:01 UTC
 <!--END_SECTION:waka-->
 -------
 
