@@ -7,7 +7,7 @@ My name is Matthew, I need to write this out but I'm lazy
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 56 Contributions in the Year 2022
+> 🏆 57 Contributions in the Year 2022
  > 
 > 📦 168.1 kB Used in GitHub's Storage 
  > 
@@ -37,7 +37,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2022 18:49:32 UTC
+ Last Updated on 28/01/2022 18:45:52 UTC
 <!--END_SECTION:waka-->
 -------
 
