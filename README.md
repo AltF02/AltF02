@@ -5,17 +5,15 @@ My name is Matthew, I need to write this out but I'm lazy
 ![Followers](https://img.shields.io/github/followers/AltF02?style=social)
 ![Views](https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square&color=green)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2046%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 57 Contributions in the Year 2022
+> 🏆 61 Contributions in the Year 2022
  > 
 > 📦 168.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 54 Public Repositories 
+> 📜 55 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
  > 
@@ -39,7 +37,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2022 18:54:15 UTC
+ Last Updated on 31/01/2022 18:46:00 UTC
 <!--END_SECTION:waka-->
 -------
 
