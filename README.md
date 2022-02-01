@@ -5,6 +5,8 @@ My name is Matthew, I need to write this out but I'm lazy
 ![Followers](https://img.shields.io/github/followers/AltF02?style=social)
 ![Views](https://komarev.com/ghpvc/?username=DankDumpster&style=flat-square&color=green)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%204%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 61 Contributions in the Year 2022
@@ -37,7 +39,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2022 18:46:12 UTC
+ Last Updated on 01/02/2022 18:47:57 UTC
 <!--END_SECTION:waka-->
 -------
 
