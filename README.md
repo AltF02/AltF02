@@ -1,6 +1,6 @@
 <h1>Thanks for visiting my profile 👋</h1>
 
-Hoi! I'm Matthew, I am an passionate FOSS developer from 🇳🇱. I am currently working personal hobby projects. I love to experiment with new techonolgies and try to come up with solutions to the weirdest problems. 
+Hoi! I'm Matthew, I am an passionate FOSS developer from 🇳🇱. I am currently working personal hobby projects. I love to experiment with new techonolgies and try to come up with solutions to the weirdest problems. I'm always open for a challenge!
 <br/>
 <details>
       <summary> Languages </summary>
