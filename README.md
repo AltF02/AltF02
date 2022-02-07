@@ -32,7 +32,40 @@ Here are the languages I know/am learning:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltF02&layout=compact&theme=dracula" />
   <br />
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 69 Contributions in the Year 2022
+ > 
+> 📦 168.1 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 55 Public Repositories 
+ > 
+> 🔑 15 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Amsterdam
+
+```
+
+**I Mostly Code in Rust** 
+
+```text
+Rust                     21 repos            ████████░░░░░░░░░░░░░░░░░   32.81% 
+Python                   20 repos            ███████░░░░░░░░░░░░░░░░░░   31.25% 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
+
+```
+
+
+
+ Last Updated on 07/02/2022 02:30:19 UTC
+<!--END_SECTION:waka-->
   </details>
   <details>
       <summary> Popular projects</summary>
