@@ -32,7 +32,7 @@ Here are the languages I know/am learning:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltF02&layout=compact&theme=dracula" />
   <br />
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,7 +66,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2022 02:32:09 UTC
+ Last Updated on 07/02/2022 02:33:56 UTC
 <!--END_SECTION:waka-->
   </details>
   <details>
