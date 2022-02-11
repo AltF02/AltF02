@@ -32,13 +32,11 @@ Here are the languages I know/am learning:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltF02&layout=compact&theme=dracula" />
   <br />
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2034%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 71 Contributions in the Year 2022
  > 
-> 📦 168.2 kB Used in GitHub's Storage 
+> 📦 168.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -66,7 +64,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2022 18:48:20 UTC
+ Last Updated on 11/02/2022 18:44:41 UTC
 <!--END_SECTION:waka-->
   </details>
   <details>
