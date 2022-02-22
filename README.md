@@ -32,17 +32,15 @@ Here are the languages I know/am learning:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltF02&layout=compact&theme=dracula" />
   <br />
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2034%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 71 Contributions in the Year 2022
+> 🏆 80 Contributions in the Year 2022
  > 
-> 📦 168.4 kB Used in GitHub's Storage 
+> 📦 169.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 56 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
  > 
@@ -56,17 +54,17 @@ Here are the languages I know/am learning:
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     21 repos            ████████░░░░░░░░░░░░░░░░░   32.81% 
-Python                   20 repos            ███████░░░░░░░░░░░░░░░░░░   31.25% 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
+Rust                     21 repos            ████████░░░░░░░░░░░░░░░░░   32.31% 
+Python                   20 repos            ███████░░░░░░░░░░░░░░░░░░   30.77% 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62%
 
 ```
 
 
 
- Last Updated on 12/02/2022 18:47:27 UTC
+ Last Updated on 22/02/2022 18:46:22 UTC
 <!--END_SECTION:waka-->
   </details>
   <details>
