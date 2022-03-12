@@ -32,6 +32,8 @@ Here are the languages I know/am learning:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltF02&layout=compact&theme=dracula" />
   <br />
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2055%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 82 Contributions in the Year 2022
@@ -64,7 +66,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/03/2022 18:45:09 UTC
+ Last Updated on 12/03/2022 18:46:45 UTC
 <!--END_SECTION:waka-->
   </details>
   <details>
