@@ -40,7 +40,7 @@ Here are the languages I know/am learning:
  > 
 > 💼 Opted to Hire
  > 
-> 📜 61 Public Repositories 
+> 📜 60 Public Repositories 
  > 
 > 🔑 20 Private Repositories  
  > 
@@ -57,7 +57,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2022 09:45:46 UTC
+ Last Updated on 07/06/2022 09:47:51 UTC
 <!--END_SECTION:waka-->
   </details>
   <details>
