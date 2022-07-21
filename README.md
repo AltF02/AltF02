@@ -47,17 +47,17 @@ Here are the languages I know/am learning:
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     25 repos            █████████░░░░░░░░░░░░░░░░   36.23% 
-Python                   19 repos            ███████░░░░░░░░░░░░░░░░░░   27.54% 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+Rust                     26 repos            █████████░░░░░░░░░░░░░░░░   37.14% 
+Python                   19 repos            ██████░░░░░░░░░░░░░░░░░░░   27.14% 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
 
 ```
 
 
 
- Last Updated on 21/07/2022 20:47:29 UTC
+ Last Updated on 21/07/2022 20:49:07 UTC
 <!--END_SECTION:waka-->
   </details>
   <details>
