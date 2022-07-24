@@ -34,13 +34,13 @@ Here are the languages I know/am learning:
   <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 221 Contributions in the Year 2022
+> 🏆 220 Contributions in the Year 2022
  > 
 > 📦 40.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 59 Public Repositories 
+> 📜 60 Public Repositories 
  > 
 > 🔑 21 Private Repositories  
  > 
@@ -57,7 +57,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2022 15:51:32 UTC
+ Last Updated on 24/07/2022 15:53:11 UTC
 <!--END_SECTION:waka-->
   </details>
   <details>
