@@ -6,17 +6,17 @@ Hoi! I'm Matthew, I am a passionate FOSS developer from 🇳🇱. I am currently
       <summary> Languages </summary>
 Here are the languages I know/am learning:
 <br>
-- C
-<br>
-- Python
-<br>
 - Rust
 <br>
 - JavaScript/TypeScript
 <br>
-- A bit of go
+- .NET Core
 <br>
-- A bit of .NET
+- Python
+<br>
+- C
+<br>
+- A bit of go
 <br>
 - A bit of Java
 <br> 
@@ -56,7 +56,7 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2022 09:11:21 UTC
+ Last Updated on 16/08/2022 09:09:33 UTC
 <!--END_SECTION:waka-->
 </details>
 <details>
