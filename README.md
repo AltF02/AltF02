@@ -28,9 +28,8 @@ Here are the languages I know/am learning:
       <summary> Statistics </summary>
 <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AltF02&show_icons=true&include_all_commits=true&theme=dracula" alt="AltF02's github stats" />
-      <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltF02&layout=compact&theme=dracula" />
-  <br />
+<br />
+      
   <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
@@ -57,15 +56,19 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2022 09:07:43 UTC
+ Last Updated on 16/08/2022 09:03:37 UTC
 <!--END_SECTION:waka-->
-  </details>
-  <details>
+</details>
+<details>
       <summary> Popular projects</summary>
-  <a href="https://github.com/AltF02/x11-rs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AltF02&repo=X11-rs&theme=dracula" /> 
-  </a>
-  </details>
+            <a href="https://github.com/AltF02/x11-rs">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AltF02&repo=X11-rs&theme=dracula" /> 
+            <a href="https://github.com/AltF02/mouse-rs">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AltF02&repo=mouse-rs&theme=dracula" />
+            <a href="https://github.com/Rust-for-Linux/linux">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rust-for-linux&repo=linux&theme=dracula" /> 
+      </a>
+</details>
 <details>
       <summary> Contact </summary>
 <br/>
