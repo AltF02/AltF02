@@ -1,5 +1,7 @@
 <h1>Thanks for visiting my profile 👋</h1>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/altf2)
+
 Hoi! I'm Matthew, I am a passionate FOSS developer from 🇳🇱. I am currently working personal hobby projects. I love to experiment with new technologies and try to come up with solutions to the weirdest problems. I'm always open for a challenge!
 <br/>
 <details>
