@@ -58,11 +58,11 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2023 03:01:20 UTC
+ Last Updated on 24/01/2023 02:59:36 UTC
 <!--END_SECTION:waka-->
 </details>
 <details>
-      <summary> Popular projects</summary>
+      <summary> Popular repos</summary>
             <a href="https://github.com/AltF02/x11-rs">
             <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AltF02&repo=X11-rs&theme=dracula" /> 
             <a href="https://github.com/AltF02/mouse-rs">
